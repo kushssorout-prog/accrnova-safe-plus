@@ -5,10 +5,10 @@ import { useState, useEffect, useRef } from 'react';
 ───────────────────────────────────────────── */
 
 const PRODUCT_LINKS = [
-  'Axiom Core',
-  'Axiom Legal',
-  'Axiom Intelligence',
-  'Axiom Pricing',
+  'ACCRNOVA Core',
+  'ACCRNOVA Legal',
+  'ACCRNOVA Intelligence',
+  'ACCRNOVA Pricing',
   'Roadmap',
 ];
 
@@ -56,7 +56,7 @@ export function FooterSection() {
 
             {/* Col 1: Brand */}
             <div className="ax-footer-brand">
-              <div className="ax-footer-logo">Axiom</div>
+              <div className="ax-footer-logo">ACCRNOVA Safe Plus</div>
               <p className="ax-footer-tagline">
                 AI governance infrastructure for professional services.
               </p>
@@ -130,7 +130,7 @@ export function FooterSection() {
           {/* Footer bottom */}
           <div className="ax-footer-bottom">
             <span className="ax-footer-copy">
-              © 2025 Axiom Technologies Ltd. All rights reserved.
+              © 2026 ACCRNOVA Private Limited. All rights reserved. · Part of ACCRNOVA Group · <a href="https://accrnova.uk" className="ax-footer-legal-link" target="_blank" rel="noopener noreferrer">accrnova.uk</a>
             </span>
             <div className="ax-footer-legal">
               <a href="#" className="ax-footer-legal-link">Privacy Policy</a>

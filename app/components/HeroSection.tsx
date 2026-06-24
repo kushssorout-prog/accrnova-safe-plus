@@ -38,7 +38,7 @@ export function AxiomNav() {
             onClick={(e) => { e.preventDefault(); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
           >
             <span className="ax-nav-logo-mark">A</span>
-            <span className="ax-nav-logo-text">Axiom</span>
+            <span className="ax-nav-logo-text">ACCRNOVA Safe Plus</span>
           </a>
 
           {/* Desktop nav links */}
@@ -227,7 +227,7 @@ export function HeroSection() {
 
               {/* Sub */}
               <p className="ax-hero-sub">
-                Axiom is the compliance layer for your existing AI tools. Streaming
+                ACCRNOVA Safe Plus is the compliance layer for your existing AI tools. Streaming
                 Circuit Breaker, cryptographic audit trails, and dynamic pricing —
                 in one platform.
               </p>
@@ -276,7 +276,7 @@ export function HeroSection() {
 
                 {/* Card header */}
                 <div className="ax-hero-card-header">
-                  <span className="ax-hero-card-header-title">Axiom Workspace</span>
+                  <span className="ax-hero-card-header-title">ACCRNOVA Safe Plus Workspace</span>
                   <span className="ax-hero-card-header-status">
                     <span className="ax-hero-card-header-dot" />
                     Active

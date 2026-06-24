@@ -245,7 +245,7 @@ export function DemoSection() {
           {/* Sidebar */}
           <aside className="ax-sidebar">
             <div className="ax-sidebar-header">
-              <div className="ax-sidebar-logo">Axiom</div>
+              <div className="ax-sidebar-logo">ACCRNOVA Safe Plus</div>
               <div className="ax-sidebar-session">
                 <span className="ax-sidebar-dot" />
                 Demo Session ● Active

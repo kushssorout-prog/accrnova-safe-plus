@@ -315,7 +315,7 @@ export function ProductSection() {
             One Platform. Three Things It Does.
           </div>
           <h2 className="ax-h2" style={{ textAlign: 'center', marginBottom: 8 }}>
-            Axiom does not replace your AI tools.
+            ACCRNOVA Safe Plus does not replace your AI tools.
           </h2>
           <h2 className="ax-h2" style={{ textAlign: 'center', color: 'var(--blue)' }}>
             It makes them safe to use.

@@ -165,7 +165,7 @@ export function WaitlistSection() {
                 </a>
                 <a
                   className="ax-share-btn twitter"
-                  href="https://twitter.com/intent/tweet?text=Just+applied+for+early+access+to+Axiom+%E2%80%94+AI+governance+for+law+firms.+%40axiomapp+https%3A%2F%2Faxiom.app"
+                  href="https://twitter.com/intent/tweet?text=Just+applied+for+early+access+to+ACCRNOVA+Safe+Plus+%E2%80%94+AI+governance+for+law+firms.+%40accrnovasafeplus+https%3A%2F%2Faxiom.app"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

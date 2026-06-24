@@ -88,7 +88,7 @@ export function PricingSection() {
       featured: true,
       barColor: 'var(--blue)',
       popular: true,
-      name: 'Axiom Core',
+      name: 'ACCRNOVA Core',
       desc: 'AI compliance monitoring, human approval workflows, and audit ledger.',
       price: '$3,000',
       scale: 'Starting price. Scales with sessions.',
@@ -105,7 +105,7 @@ export function PricingSection() {
     {
       featured: false,
       barColor: 'var(--teal)',
-      name: 'Axiom Legal',
+      name: 'ACCRNOVA Legal',
       desc: 'AI-assisted legal drafting, statutory compliance, and multi-jurisdictional risk.',
       price: '$2,000',
       features: [
@@ -120,7 +120,7 @@ export function PricingSection() {
     {
       featured: false,
       barColor: 'var(--violet)',
-      name: 'Axiom Intelligence',
+      name: 'ACCRNOVA Intelligence',
       desc: 'Zero-hallucination research, market monitoring, and supply chain signals.',
       price: '$1,500',
       features: [
@@ -135,7 +135,7 @@ export function PricingSection() {
     {
       featured: false,
       barColor: 'var(--coral)',
-      name: 'Axiom Pricing',
+      name: 'ACCRNOVA Pricing',
       desc: 'Real-time AI vs. human value attribution and dynamic billing.',
       price: '$1,000',
       features: [

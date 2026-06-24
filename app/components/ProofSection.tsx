@@ -116,7 +116,7 @@ export function ProofSection() {
         {/* Cohort Box */}
         <div className="ax-cohort-box">
           <div className="ax-cohort-text">
-            <h3>Axiom's founding cohort is capped at 50 firms.</h3>
+            <h3>ACCRNOVA Safe Plus's founding cohort is capped at 50 firms.</h3>
             <p>
               Each firm receives dedicated onboarding, direct access to the founding team,
               and founding-member pricing locked in for life.
